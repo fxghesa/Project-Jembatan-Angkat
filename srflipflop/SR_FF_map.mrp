@@ -1,0 +1,35 @@
+Release 13.1 Map O.40d (nt)
+Xilinx Mapping Report File for Design 'SR_FF'
+
+Design Information
+------------------
+Command Line   : map -intstyle ise -p xa3s200-ftg256-4 -cm area -ir off -pr off
+-c 100 -o SR_FF_map.ncd SR_FF.ngd SR_FF.pcf 
+Target Device  : xa3s200
+Target Package : ftg256
+Target Speed   : -4
+Mapper Version : aspartan3 -- $Revision: 1.55 $
+Mapped Date    : Tue Dec 29 09:08:46 2015
+
+Design Summary
+--------------
+Number of errors   :   1
+Number of warnings :   0
+
+Section 1 - Errors
+------------------
+ERROR:Security:7 - A feature for ISE was found but is for the wrong hostid.
+ERROR:Security:9 - No 'ISE' nor 'WebPack' feature was available for part
+'xa3s200'.
+ERROR:Map:258 - A problem was encountered attempting to get the license for this
+   architecture. 
+
+Section 2 - Warnings
+--------------------
+
+Section 3 - Informational
+-------------------------
+INFO:Security:54 - 'xa3s200' is a WebPack part.
+INFO:Security:61 - The XILINXD_LICENSE_FILE environment variable is not set.
+INFO:Security:63 - The LM_LICENSE_FILE environment variable is not set.
+INFO:Security:68 - Please run the Xilinx License Configuration Manager

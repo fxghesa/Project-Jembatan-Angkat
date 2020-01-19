@@ -1,0 +1,9 @@
+V3 3
+FL "D:/Rangkaian Logika 2/Project Jembatan Angkat/srflipflop/flipflop.vhd" 2015/12/29.09:07:32 O.40d
+EN work/SR_FF 1451354873 \
+      FL "D:/Rangkaian Logika 2/Project Jembatan Angkat/srflipflop/flipflop.vhd" \
+      PB ieee/std_logic_1164 1296775758 PB ieee/std_logic_arith 1296775759 \
+      PB ieee/STD_LOGIC_UNSIGNED 1296775760
+AR work/SR_FF/behavioral 1451354874 \
+      FL "D:/Rangkaian Logika 2/Project Jembatan Angkat/srflipflop/flipflop.vhd" \
+      EN work/SR_FF 1451354873
